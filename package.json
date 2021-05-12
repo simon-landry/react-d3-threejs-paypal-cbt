@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.2.1",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "convert-excel-to-json": "^1.6.0",
     "cross-env": "^5.2.0",
     "csvtojson": "^2.0.8",
